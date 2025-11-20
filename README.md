@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning *Deep learning*
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ajaz-ahamad-7aa675315](https://www.linkedin.com/in/ajaz-ahamad-7aa675315)
+- 👨‍💻 All of my projects are available at [](https://www.linkedin.com/in/ajaz-ahamad-7aa675315)
 
-- 📫 How to reach me *ajazahmadajaj@gmail.com*
+- 📫 How to reach me *vikash962156@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
