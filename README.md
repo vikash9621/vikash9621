@@ -67,32 +67,6 @@
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
-
-### 🎓 **Student Placement Prediction**  
-📌 *Machine Learning | Flask | Deployment*  
-- Built a model predicting student placement outcomes  
-- Developed & deployed a Flask web app on Render  
-- Implemented EDA, feature engineering & accuracy optimization  
-
----
-
-### 👁‍🗨 **Class Vibe – AI Student Engagement Monitor**  
-📌 *Deep Learning | Real-time Monitoring*  
-- AI model to detect & monitor student engagement  
-- Improved classroom analytics with CV techniques  
-- Helps teachers track attention & behavior patterns  
-
----
-
-### 📊 **Sales Insights Dashboard**  
-📌 *Power BI | Data Analytics*  
-- Created dashboards for profit, sales, and KPIs  
-- Identified trends & insights improving decision-making  
-- Clean data transformation & modeling  
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
