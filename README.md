@@ -1,146 +1,28 @@
-<!-- Animated Banner -->
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LegendaryEmoji/Assets/main/banners/gradient-wave.gif" width="100%" alt="banner"/>
+<h1 align="center">Hi 👋, I'm Ajaz Ahamad</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajazah7317&label=Profile%20views&color=0e75b6&style=flat" alt="ajazah7317" /> </p>
+
+- 🌱 I’m currently learning *Machine Learning*
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ajaz-ahamad-7aa675315](https://www.linkedin.com/in/ajaz-ahamad-7aa675315)
+
+- 📫 How to reach me *ajazahmadajaj@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ajazahamad73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajazahamad73" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaz-ahamad-7aa675315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajaz-ahamad-7aa675315" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/its_.ajaz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_.ajaz_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ajazah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajazah" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&center=true&color=00E8FF&vCenter=true&width=650&lines=Hello%F0%9F%91%8B+I'm+Vikash+Maddheshiya;Data+Analyst+%7C+ML+Engineer+%7C+Python+Dev;I+turn+data+into+actionable+intelligence" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajazah7317&show_icons=true&locale=en&layout=compact" alt="ajazah7317" /></p>
 
-<!-- 3D Avatar -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshith-venkatesh/harshith-venkatesh/main/assets/3d-avatar.gif" width="180"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajazah7317&show_icons=true&locale=en" alt="ajazah7317" /></p>
 
----
-
-## 🎯 About Me  
-
-💡 Data Analyst passionate about ML, automation & AI  
-📊 Skilled in Python, SQL, Power BI, Excel & Machine Learning  
-🧠 Strong experience in Data Cleaning → EDA → ML Model Building  
-🏢 Ex-Python Data Analytics Intern at Miraky Cloud Media  
-🏆 Published Researcher + Microsoft GenAI Certificate Holder  
-🎯 Goal: Become a **Data Scientist / AI Engineer**  
-📩 Email: **vikash9621@gmail.com**
-
----
-
-## 🌐 Connect with Me  
-<p align="center">
-<a href="https://www.linkedin.com/in/vikash-maddheshiya-13625530a">
-<img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:vikash9621@gmail.com">
-<img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/vikash9621">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 🧠 Skills Visualization  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,tensorflow,git,github,linux,matlab,flutter,vscode&theme=dark" />
-</p>
-
----
-
-# ⚡ Tech Stack  
-
-### 💻 Languages  
-Python | SQL | JavaScript  
-
-### 📊 Data & ML  
-Pandas | NumPy | Scikit-Learn | Seaborn | Matplotlib | Jupyter  
-
-### 🧰 Tools  
-Power BI | Excel | VS Code | Git | Google Colab  
-
----
-
-# 🏆 Experience  
-### 🔹 **Python Data Analytics Intern — Miraky Cloud Media (2025)**  
-- Performed Data Cleaning, Feature Engineering & EDA  
-- Generated insights from large datasets  
-- Built ML models for analysis  
-- Created visual dashboards for business insights  
-
----
-
-# 🧩 Featured Projects (Premium Cards)
-
-<!-- Project Card 1 -->
-<p align="center">
-  <a href="https://github.com/vikash9621">
-  <img src="https://github-card.tech/api/card?username=vikash9621&repo=Student-Placement-Prediction&theme=radical&background=081b29&description=ML model predicting student placement + Flask deployment" width="420"/>
-  </a>
-</p>
-
-<!-- Project Card 2 -->
-<p align="center">
-  <a href="https://github.com">
-  <img src="https://github-card.tech/api/card?username=vikash9621&repo=ClassVibe-AI-Engagement-Detector&theme=react-dark&background=081b29&description=AI model analysing student engagement in real-time" width="420"/>
-  </a>
-</p>
-
-<!-- Project Card 3 -->
-<p align="center">
-  <a href="https://github.com">
-  <img src="https://github-card.tech/api/card?username=vikash9621&repo=Sales-Insights-PowerBI&theme=highcontrast&background=081b29&description=Sales Dashboard for KPIs, Trends, Profit Analysis" width="420"/>
-  </a>
-</p>
-
----
-
-# 🧿 Certifications  
-- Career Essentials in Generative AI — Microsoft  
-- Research Paper Published: *Hand Gesture Recognition*  
-- Data Engineering & Visualization Program — HCL Tech  
-
----
-
-# 📈 GitHub Analytics (Advanced)
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikash9621&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash9621&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikash9621&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash9621&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikash9621&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-# 🎉 Fun GIF  
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzYzM2xkMXB0MXl5MjZibXRlemdvOHZobXRpN3JzNHRtdTA5OHFiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSbSGpGaRX2Vri/giphy.gif" width="280"/>
-</p>
-
----
-
-<h2 align="center">⭐ If you like my work, consider giving a star to my repositories!</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajazah7317&" alt="ajazah7317" /></p>
