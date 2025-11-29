@@ -1,14 +1,17 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF6C37&center=true&vCenter=true&width=650&lines=Hello%F0%9F%91%8B+I'm+Vikash+Maddheshiya;Data+Analyst+%7C+ML+Enthusiast+%7C+Python+Developer;Turning+Data+Into+Insights+%26+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=FF6C37&center=true&vCenter=true&width=750&lines=Hello+👋+I'm+Vikash+Maddheshiya;Data+Analyst+|+ML+Enthusiast+|+Python+Developer;Turning+Data+Into+Insights+and+Solutions" />
 </p>
+
 
 ---
 
-<!-- Neon Glow Line -->
+<!-- Neon Glow Line (Working) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajkusuma/rainbow-divider/main/neon-divider.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="100%" />
 </p>
+
+
 
 
 
