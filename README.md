@@ -5,10 +5,11 @@
 
 ---
 
-<!-- Modern Gradient Line -->
+<!-- Neon Glow Line -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/main/lines/gradient-line.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/rajkusuma/rainbow-divider/main/neon-divider.gif" width="100%" />
 </p>
+
 
 
 
