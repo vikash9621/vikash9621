@@ -1,7 +1,9 @@
 <!-- Animated Banner -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/LegendaryEmoji/Assets/main/banners/gradient-wave.gif" width="100%" alt="banner"/>
 </p>
+
 
 <!-- Typing SVG -->
 <p align="center">
