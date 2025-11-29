@@ -5,8 +5,11 @@
 
 ---
 
-<!-- Gradient Line -->
-<img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/images/lines/rainbow.png" />
+<!-- Neon Glow Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajkusuma/rainbow-divider/main/neon-divider.gif" width="100%" />
+</p>
+
 
 <h2 align="center">🚀 About Me</h2>
 
