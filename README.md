@@ -1,20 +1,27 @@
-<!-- Banner -->
+<!-- ================================
+  🔥 Animated Banner (Typing Intro)
+================================ -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=FF6C37&center=true&vCenter=true&width=750&lines=Hello+👋+I'm+Vikash+Maddheshiya;Data+Analyst+|+ML+Enthusiast+|+Python+Developer;Turning+Data+Into+Insights+and+Solutions" />
 </p>
 
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- Right Side GIF -->
+<img align="right" alt="coding-gif" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ---
 
-<!-- Neon Glow Line (Working) -->
+<!-- ================================
+  🌈 Neon Divider
+================================ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="100%" />
 </p>
 
 ---
 
+<!-- ================================
+  🚀 About Me
+================================ -->
 <h2 align="center">🚀 About Me</h2>
 
 - 🎓 B.Tech (CSE - AI), BIET Lucknow  
@@ -27,7 +34,11 @@
 
 ---
 
+<!-- ================================
+  🌐 Connect With Me
+================================ -->
 <h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vikash-maddheshiya-13625530a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,6 +53,9 @@
 
 ---
 
+<!-- ================================
+  🧠 Skills & Tools
+================================ -->
 <h2 align="center">🧠 Skills & Tools</h2>
 
 ### 🖥️ Languages  
@@ -74,6 +88,9 @@
 
 ---
 
+<!-- ================================
+  📊 GitHub Stats
+================================ -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -83,6 +100,9 @@
 
 ---
 
+<!-- ================================
+  🔥 Contribution Streak
+================================ -->
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
@@ -91,6 +111,9 @@
 
 ---
 
+<!-- ================================
+  🧩 Profile Summary
+================================ -->
 <h2 align="center">🧩 Profile Summary</h2>
 
 <p align="center">
@@ -99,6 +122,9 @@
 
 ---
 
+<!-- ================================
+  👀 Profile Views
+================================ -->
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
@@ -107,6 +133,9 @@
 
 ---
 
+<!-- ================================
+  ✨ Fun GIF
+================================ -->
 <h2 align="center">✨ Fun GIF</h2>
 
 <p align="center">
