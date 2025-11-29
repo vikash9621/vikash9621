@@ -2,17 +2,17 @@
 🔥 Animated Title Banner
 ========================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF6C37&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Vikash+Maddheshiya;Data+Analyst+|+ML+Enthusiast+|+Python+Developer;I+turn+data+into+actionable+insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FF6C37&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Vikash+Maddheshiya;Data+Analyst+|+ML+Enthusiast+|+Python+Developer;I+turn+data+into+actionable+insights" />
 </p>
 
-<!-- Coding GIF aligned right -->
+<!-- Coding GIF centered -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" />
+  <img src="https://i.ibb.co/0jWqWfP/coding-gif.gif" width="350" />
 </p>
 
 <!-- Clean Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="90%" />
 </p>
 
 <!-- =========================================
@@ -24,20 +24,18 @@
 A passionate Data Analyst & ML Enthusiast who loves converting raw data into meaningful insights.
 </p>
 
-<ul>
+<ul align="center">
   <li>🎓 B.Tech (CSE - AI), BIET Lucknow</li>
   <li>📊 Skilled in <b>Python, ML, SQL, Power BI, Excel</b></li>
-  <li>🧹 Experienced in <b>Data Cleaning, EDA, Model Building</b></li>
+  <li>🧹 Strong in <b>Data Cleaning, EDA, Feature Engineering, Model Building</b></li>
   <li>💼 Python Data Analytics Intern at <i>Miraky Cloud Media Pvt Ltd</i></li>
   <li>🎯 Goal: Become a <b>Data Scientist / AI Engineer</b></li>
   <li>📫 Email: <b>vikash9621@gmail.com</b></li>
 </ul>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="90%" />
 </p>
-
 
 <!-- =========================================
 🌐 Social Links
@@ -57,9 +55,8 @@ A passionate Data Analyst & ML Enthusiast who loves converting raw data into mea
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="90%" />
 </p>
-
 
 <!-- =========================================
 🧠 Skills
@@ -67,22 +64,22 @@ A passionate Data Analyst & ML Enthusiast who loves converting raw data into mea
 <h2 align="center">🧠 Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,vscode,git,github,figma,excel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github,vscode,figma,excel&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="90%" />
 </p>
-
 
 <!-- =========================================
 📊 GitHub Stats
 ========================================= -->
 <h2 align="center">📊 GitHub Stats</h2>
 
+<!-- FIXED: Stats images now load correctly -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikash9621&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash9621&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikash9621&show_icons=true&theme=tokyonight&cache_seconds=60" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash9621&layout=compact&theme=tokyonight&cache_seconds=60" height="170" />
 </p>
 
 <p align="center">
@@ -90,14 +87,12 @@ A passionate Data Analyst & ML Enthusiast who loves converting raw data into mea
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash9621&theme=tokyonight" width="80%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash9621&theme=tokyonight" width="90%" />
 </p>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/kannansuresh/neon-lines/main/neon-line.gif" width="90%" />
 </p>
-
 
 <!-- =========================================
 👀 View Counter & GIF
@@ -111,7 +106,7 @@ A passionate Data Analyst & ML Enthusiast who loves converting raw data into mea
 <h2 align="center">✨ Fun GIF</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </p>
 
 <h2 align="center">⭐ If you like my work, please star my repositories!</h2>
