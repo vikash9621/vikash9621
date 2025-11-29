@@ -1,28 +1,137 @@
-<h1 align="center">Hi 👋, I'm Ajaz Ahamad</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajazah7317&label=Profile%20views&color=0e75b6&style=flat" alt="ajazah7317" /> </p>
-
-- 🌱 I’m currently learning *Machine Learning*
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ajaz-ahamad-7aa675315](https://www.linkedin.com/in/ajaz-ahamad-7aa675315)
-
-- 📫 How to reach me *ajazahmadajaj@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ajazahamad73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajazahamad73" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaz-ahamad-7aa675315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajaz-ahamad-7aa675315" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/its_.ajaz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_.ajaz_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajazah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajazah" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF6C37&center=true&vCenter=true&width=650&lines=Hello%F0%9F%91%8B+I'm+Vikash+Maddheshiya;Data+Analyst+%7C+ML+Enthusiast+%7C+Python+Developer;Turning+Data+Into+Insights+%26+Solutions" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajazah7317&show_icons=true&locale=en&layout=compact" alt="ajazah7317" /></p>
+<!-- Gradient Line -->
+<img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/images/lines/rainbow.png" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajazah7317&show_icons=true&locale=en" alt="ajazah7317" /></p>
+<h2 align="center">🚀 About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajazah7317&" alt="ajazah7317" /></p>
+- 🎓 B.Tech (CSE - AI), BIET Lucknow  
+- 🔍 Passionate about **Data Analysis, Machine Learning & Automation**  
+- 📊 Skilled in **Python, ML, SQL, Power BI, Excel**  
+- 🧹 Experienced in **Data Cleaning, EDA, Model Building, Dashboards**  
+- 💼 Python Data Analytics Intern at *Miraky Cloud Media Pvt Ltd*  
+- 🎯 Goal: **Data Scientist / AI Engineer**  
+- 📫 Email: **vikash9621@gmail.com**
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikash-maddheshiya-13625530a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vikash9621@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vikash9621">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🧠 Skills & Tools</h2>
+
+### 🖥️ Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🧮 Data Analysis & ML  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4CC9F0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 📊 Visualization  
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### 🧰 Tools  
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📌 Featured Projects</h2>
+
+### 🎓 **Student Placement Prediction**  
+📌 *Machine Learning | Flask | Deployment*  
+- Built a model predicting student placement outcomes  
+- Developed & deployed a Flask web app on Render  
+- Implemented EDA, feature engineering & accuracy optimization  
+
+---
+
+### 👁‍🗨 **Class Vibe – AI Student Engagement Monitor**  
+📌 *Deep Learning | Real-time Monitoring*  
+- AI model to detect & monitor student engagement  
+- Improved classroom analytics with CV techniques  
+- Helps teachers track attention & behavior patterns  
+
+---
+
+### 📊 **Sales Insights Dashboard**  
+📌 *Power BI | Data Analytics*  
+- Created dashboards for profit, sales, and KPIs  
+- Identified trends & insights improving decision-making  
+- Clean data transformation & modeling  
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikash9621&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash9621&layout=compact&theme=tokyonight" height="180">
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vikash9621&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">🧩 Profile Summary</h2>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash9621&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikash9621&style=for-the-badge&color=red">
+</p>
+
+---
+
+<h2 align="center">✨ Fun GIF</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260"/>
+</p>
+
+---
+
+<h2 align="center">⭐ If you like my work, don't forget to star my repositories!</h2>
