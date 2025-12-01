@@ -2,7 +2,7 @@
 🔥 Animated Title Banner
 ========================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FF6C37&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Vikash+Maddheshiya;Data+Analyst+|+ML+Enthusiast+|+Python+Developer;I+turn+data+into+actionable+insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FF6C37&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Vikash+Maddheshiya;Data+Analyst+|+ML+Enthusiast+|+Python+Developer" />
 </p>
 
 <!-- Coding GIF centered -->
